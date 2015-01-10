@@ -15,7 +15,7 @@ animated_fins:    true
 # Specify the fin color in RGB value
 fin_color:        "255,255,255"
 
-url:              "/v2"
+url:              "http://andreanisme.net/v2"
 
 
 # Owner/author information
