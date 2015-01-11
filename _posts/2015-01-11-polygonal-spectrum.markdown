@@ -32,7 +32,7 @@ Dalam *amat*?
 
 <br />
 <figure>
-	<a href="{{ site.url }}/images/galaxy/2014.jpg"><img src="{{ site.url }}/images/galaxy/2014.jpg"></a>
+	<a href="{{ site.url }}/images/galaxy/2014.png"><img src="{{ site.url }}/images/galaxy/2014.png"></a>
 	<figcaption>andreanisme.net 2014.</figcaption>
 </figure>
 
