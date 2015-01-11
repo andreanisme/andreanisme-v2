@@ -47,6 +47,8 @@ links:
     icon: home
   - title: About
     url: /about
+  - title: Time Machine
+    url: /timemachine
   - title: Categories
     url: /categories
 
@@ -60,8 +62,6 @@ paginate_path: "page:num"
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:title
-
-include: .htaccess
 
 kramdown:
   auto_ids: true
