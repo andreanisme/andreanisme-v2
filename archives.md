@@ -4,6 +4,7 @@ title: Archives Index
 permalink: /archives/index.html
 title: Time Machine
 description: "An archive of post "
+imagefeature: timemachine.jpg
 
 ---
 <h2>Time Machine</h2>
