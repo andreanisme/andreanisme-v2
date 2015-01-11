@@ -3,7 +3,7 @@ layout: post
 title: "Belajar Google Analytics"
 date: 2014-03-26 15:53
 comments: false
-categories: apps
+categories: tech
 ---
 
 ![Google Analytics Platform Principles](https://farm8.staticflickr.com/7370/13421820365_8a9997dee7_c.jpg

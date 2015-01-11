@@ -3,7 +3,7 @@ layout: post
 title: "Olleh Dlrow!"
 date: 2013-08-08 00:00
 comments: true
-categories:  general
+categories:  lifelog
 ---
 
 ###Static!

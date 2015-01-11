@@ -3,7 +3,7 @@ layout: post
 title: "Penikmat Single"
 date: 2014-03-28 19:02
 comments: false
-categories: apps
+categories: tech
 ---
 
 Dulu, tiap akhir bulan saya membeli 1-2 kaset pita, selama SMP-SMA. Sampai punya rak khusus untuk kaset. Kebiasaan mendengar kaset adalah tidak melakukan re-wind atau forward. Kenapa? Karena pita kaset bisa rusak, *nglokor* kalau orang Jawa bilang. Walaupun kaset itu akan tidak bisa prima lagi setelah dimakan usia. Atau faktor pemutar (tape) yang mungkin head-nya kurang bagus.

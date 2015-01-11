@@ -3,7 +3,7 @@ layout: post
 title: "Karena Fokus Adalah Kunci"
 date: 2014-01-22 16:16
 comments: false
-categories: apps
+categories: tech
 ---
 
 ![](http://farm6.staticflickr.com/5532/12082697325_253a4e2881_c.jpg "Momentum")

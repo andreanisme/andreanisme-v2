@@ -3,7 +3,7 @@ layout: post
 title: "The Guardian is now implement responsive design"
 date: 2013-10-05 20:25
 comments: false
-categories: [quickpost, web design]
+categories: tech
 ---
 
 Alpha testing and evolution of our mobile site http://www.theguardian.com/help/2013/oct/04/alpha-testing-and-evolution-of-our-mobile-site?
