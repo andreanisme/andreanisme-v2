@@ -624,6 +624,13 @@ html {
 .decor.top {
   top: -1px;
 }
+
+.social-icons a{
+  width: 32px;
+  height: 32px;
+  font-size: 14px;
+}
+
 /* - Theme Backgrounds - */
 .blog-background {
   background-repeat: no-repeat;
