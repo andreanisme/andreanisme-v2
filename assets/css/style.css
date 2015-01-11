@@ -501,6 +501,7 @@ html {
   margin-top: 0;
   margin-bottom: 12px;
   padding-bottom: 12px;
+  font-weight: 400!important;
 }
 /* - Post info - */
 .post-info {
