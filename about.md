@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Andrean Saputro
+title: About 
 permalink: /about/
 ---
 
