@@ -8,7 +8,7 @@ imagefeature: timemachine.jpg
 
 ---
 <h2>Time Machine</h2>
-<ul class="post-list">
+<ul class="post-list time-machine">
                 {% for post in site.posts %}
                    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></a></li>
                 {% endfor %}
