@@ -2608,8 +2608,8 @@ figure a img {
 }
 
 figure a img:hover {
-    filter: none;
-    -webkit-filter: brightness(130%);
+    /**filter: none;
+    -webkit-filter: brightness(130%);**/
     -webkit-transform: translate(0,-5px);
     -moz-transform: translate(0,-5px);
     -ms-transform: translate(0,-5px);
