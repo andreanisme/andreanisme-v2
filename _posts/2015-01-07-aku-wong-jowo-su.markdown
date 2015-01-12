@@ -3,6 +3,7 @@ layout: post
 title: "Aku Wong Jowo, Su!"
 date: 2015-01-07 22:36
 comments: false
+imagefeature: post/wayang.jpg
 categories: lifelog
 ---
 ![Adimas Andre](https://s3.amazonaws.com/pushbullet-uploads/ujBPePxiUxM-ziIpX9zMxzmXM5V6iOeIgb2rtmayPRSL/IMG_2472.JPG
