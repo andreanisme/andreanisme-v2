@@ -34,7 +34,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-43055503-1
-google_verify:
+google_verify: google285ada39664b7afa
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
