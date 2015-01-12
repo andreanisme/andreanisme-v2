@@ -1,0 +1,45 @@
+---
+layout: post
+title: Meninggalkan MAMP
+date: 2012-11-20 04:08:16.000000000 +07:00
+categories:
+- tech
+tags:
+- mac mini
+- MAMP
+- Max OS X
+- MySQL
+- Sequel Pro
+- server lokal
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _aioseop_description: 'Pertimbangan saya untuk meninggalkan MAMP dan mencoba memasang
+    komponen-komponen web server (Apache, PHP, MySQL) secara manual pada Mac Mini
+    adalah:'
+  _aioseop_title: Meninggalkan MAMP
+  dsq_thread_id: '935465265'
+  _aioseop_keywords: MAMP, MySQL, Max OS X, mac mini, homebrew, php, apache, sequel
+    pro
+  _nectar_love: '0'
+author:
+  login: andreanisme
+  email: andreanisme@gmail.com
+  display_name: andreanisme
+  first_name: ''
+  last_name: ''
+---
+<p>Sebagai pengguna Mac OS X "kemarin  sore" dan sebelumnya terbiasa dengan Windows 7, awam ini sudah secara default akan memanfaatkan XAMPP atau MAMP (untuk Mac) untuk menjadikan komputer sebagai server lokal dan untuk menangani database.</p>
+<p>Pertimbangan saya untuk meninggalkan MAMP dan mencoba memasang komponen-komponen web server (Apache, PHP, MySQL) secara manual pada Mac Mini adalah:</p>
+<ul>
+<li>MAMP seringkali rewel. Terkadang hanya Apache Servernya yang berwarna hijau, sedangkan MySQL tidak jalan. Jika sudah teratasi, maka ada lagi masalah lain, seperti penggantian password root yang harus mengganti script-script yang ada pada /bin MAMP. Tidak praktis.</li>
+<li>Port default MAMP adalah :8888 dan ketika menggantinya ke port :80, memerlukan waktu lagi untuk mengkonfigurasi. Jika tidak, maka penulisan lokasi di browser menjadi sangat menyebalkan bagi saya karena harus mengetikkan :8888 di belakang localhost. Misal:localhost:8888/wordpress.</li>
+<li>Tidak perlu lagi menyalakan control panel MAMP untuk memulai proses pengembangan website di komputer lokal.</li>
+</ul>
+<p>Setelah saya tanya mbah Google tentang cara untuk membuat saya dapat meninggalkan MAMP, saya dipersilakan untuk mengunjungi blog milik <a href="http://www.lukejones.me/articles/set-up-a-local-server-on-os-x/" target="_blank">Luke Jones</a> tentang cara menjadikan Mac OS X sebagai server lokal.</p>
+<p>Namun ada satu catatan tentang tutorial dari Luke Jones di atas. Langkah yang dituliskan untuk menginstall MySQL adalah dengan <a href="http://mxcl.github.com/homebrew/" target="_blank">Homebrew</a>. Nah saya sempat tertahan beberapa jam saat menginstall lalu mengkonfigurasikan MySQL via Homebrew karena tidak berjalan mulus di Mac saya.</p>
+<p>Namun, karena mbah Google berbaik hati maka saya ditunjukan jalan untuk melakukan instalasi MySQL dengan cara "standar", yaitu dengan <a href="http://dev.mysql.com/downloads/mysql/" target="_blank">mengunduh paket MySQL</a> yang sudah disediakan oleh MySQL-nya sendiri. Anda bisa melakukan <em>step by step </em>instalasinya dengan mengikuti tulisan dari blog <a href="http://www.coolestguyplanettech.com/how-to-install-php-mysql-apache-on-os-x-10-6/" target="_blank">Coolest Guy on The Planet</a>.</p>
+<p>Langkah dari kedua tutorial di atas berhasil berjalan baik di Mac Mini mid 2011 dan menggunakan Mac OS X 10.7.1.</p>
+<p>Untuk mengganti PHPMyAdmin, saya menggunakan <a href="http://www.sequelpro.com/" target="_blank">Sequel Pro</a> yang banyak disarankan oleh para pengguna Mac dalam mengatur database.</p>
