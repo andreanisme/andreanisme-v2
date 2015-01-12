@@ -18,14 +18,14 @@ Ide dan konsep tampilan untuk blog ini muncul begitu saja setelah aku melihat vi
 
 Aku kemudian menentukan waktu untuk membuat dan menentukan konsep apa yang kupilih untuk mengeksekusi ide yang sudah kuendapkan selama dua bulan lamanya itu. Voila! Aku mendapatkan tema **Polygonal Spectrum!** 
 
-Dalam bayanganku, aku berdiri dan melihat sebuah galaksi atau gugusan bintang dari atas deck kayu lalu membayangkan ketika cahaya bintang-bintang tersebut memantulkan spektrum warna yang matahari. Dalam analogiku, matahari tersebut adalah Sang Esa dan bintang-bintang tersebut adalah kerlap-kerlip duniawi, sedangkan galaksi adalah semesta. 
+Dalam bayanganku, aku berdiri dan melihat sebuah galaksi atau gugusan bintang dari atas deck kayu lalu membayangkan ketika cahaya bintang-bintang tersebut memantulkan spektrum warna dari matahari. Dalam analogiku, matahari tersebut adalah Sang Esa dan bintang-bintang tersebut adalah kerlap-kerlip duniawi, sedangkan galaksi adalah semesta. 
 
 >Hail, the preachers, fake and proud<br>
 Their doctrines will becloud<br>
 Then they'll dissipate<br>
 Like snowflakes in an ocean<br>
 
-Dari keseluran lirik, bait lirik di atas adalah bagian yang menjadi permenunganku. Hidup adalah sejatinya karang, semua menghadapi semuanya seorang diri. Hanya kecenderungan pikira kita lantas memberi atmosfer lain yang seolah menjadikan orang lain sebagai bagian dari diri kita sendiri. Lalu aku memvisualkan bentuk snowflakes dengan polygonal shape pada bagian header dan footer blog ini.
+Dari keseluran lirik, bait lirik di atas adalah bagian yang menjadi permenunganku. Hidup adalah sejatinya karang, semua menghadapi semuanya seorang diri. Hanya kecenderungan pikiran kita lantas memberi atmosfer lain yang seolah menjadikan orang lain sebagai bagian dari diri kita sendiri. Lalu aku memvisualkan bentuk snowflakes dengan polygonal shape pada bagian header dan footer blog ini.
 
 Dalam *amat*?
 
