@@ -62,7 +62,7 @@ Aku yang sudah kenal Harjo dari SMA ini sebenarnya sudah tahu kalau dia sedang m
 
 "Aku nggak puas, Jo ..." jawabku singkat.
 
-"We lha! Kurang akeh, po? (apa kurang banyak? -jw) Aku penasaran lho mas soal duitnya! Berapa mas, berapaaaaaaaa?????!!!!!" Kali ini Jono menatapku dengan tajam.
+"We lha! Kurang akeh, po? (apa kurang banyak? -jw) Aku penasaran lho mas soal duitnya! Berapa mas, berapaaaaaaaa?????!!!!!" Kali ini Harjo menatapku dengan tajam.
 
 "Oke, Jo! Jumlah rupiah yang kudapati dari 1 kontrak tulisan berbayar di blog lebih besar dari jumlah rupiah yang aku dapat dari mengerjakan sebuah website pada waktu itu! Tapi aku tetap menutupnya." tukasku.
 
