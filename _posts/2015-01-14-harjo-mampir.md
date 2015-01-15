@@ -107,6 +107,6 @@ Setelahnya aku bersyukur, bahwa hidup ini memang sejatinya harus memilih lalu me
 
 <hr />
 
-<p>* Tulisan yang ada di dalam kategori <a href="http://andreanisme.net/categories/#blogs" class="btn btn-default">Blog</a> hampir seluruhnya diambil dari blog saya sebelumnya (andre.web.id - sudah berpindah pemilik & blog.andreanisme.com).</p>
+<p>* Tulisan yang ada di dalam kategori <a href="http://andreanisme.net/categories/#blog" class="btn btn-default">Blog</a> hampir seluruhnya diambil dari blog saya sebelumnya (andre.web.id - sudah berpindah pemilik & blog.andreanisme.com).</p>
 
 <p>Tak salah jika kamu mencoba menelusuri <a href="http://andreanisme.net/archives" target="_blank" class="btn btn-success btn-sm">Mesin Waktu</a> blog ini.</p>
