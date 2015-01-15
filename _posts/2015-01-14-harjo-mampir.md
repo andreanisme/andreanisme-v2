@@ -12,7 +12,7 @@ mathjax:
 
 Aku menikmati sebatang rokok di balkon apartemen sambil menikmati teh hangat. Terlihat bodi dan kaca mobil yang terparkir di bawah diselimuti titik-titik air. Langit Jakarta nampaknya sudah loyal mencurahkan air hujan sejak 3 hari belakangan. "Ahh... ini sudah Januari yang kata orang adalah kependekan dari hujan sehari-hari..."
 
-Sore itu aku menikmati dua batang rokok dan segelas teh hangat yang kutandaskan ketika bara rokok kedua sudah sangat dekat dengan filter dimana bibirku menghisapnya. Lalu aku masuk kembali ke kamar untuk merampungkan tampilan baru blog ini yang kurilis 2 hari yang lalu. 
+Sore itu aku menikmati dua batang rokok dan segelas teh hangat yang kutandaskan ketika bara rokok kedua sudah sangat dekat dengan filter dimana bibirku menghisapnya. Lalu aku masuk kembali ke kamar untuk merampungkan tampilan baru blog ini yang kurilis 5 hari yang lalu. 
 
 Saat aku sudah asyik dengan kode-kode di atas text editor yang warna teksnya warna-warni itu tiba-tiba handphoneku menampilkan pesan WhatsApp dari Harjo...
 
