@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Harjo Mampir di Tempat Baru"
-description: 
-headline: 
+description: "... Jumlah rupiah yang kudapati dari 1 kontrak tulisan berbayar di blog lebih besar dari jumlah rupiah yang aku dapat dari mengerjakan sebuah website pada waktu itu! Tapi aku tetap menutupnya."
 modified: 2015-01-14
 category: blog
 tags: []
