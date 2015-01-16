@@ -32,7 +32,7 @@ Di sela menunggu hujan reda untuk pulang ke apartemen, aku seperti diingatkan ol
 
 Seteguh pendirianku, sekuat kuda-kuda kakiku, dan setegak kepalaku sudah kualirkan dalam berjuta-juta sel darah yang mengalir di tubuhku, selaput-selaput ototku dan kujadikan doktrin yang terus kucemarkan dalam otakku bahwa aku harus berkarya dan berpenghasilan meskipun aku tak tahu aku akan mendapat pendapatan sebesar berapa setelah aku mengusap air mata mamahku yang perasaan luluh lantak ditinggal anak semata wayangnya yang keras kepala ini untuk menjalani satu fase kehidupannya. Bekerja! Betapa malunya jika si anak tunggal yang sama sekali tidak tampan tapi keren ini gagal berkemauan untuk berpenghasilan!
 
-Rinduku dalam menanti gajian di bulan-bulan pertama aku bekerja selalu terbalut dengan harapan. Harapan yang menguatkan aku untuk tidak berjalan mundur, misalnya menyerah lalu pulang ke Solo lagi. Meskipun, tanpa kusangkal, aku babak belur saat mendapati isi dompet yang tidak sebanding dengan nafsuku! 
+Rinduku dalam menanti gajian di awal-awal aku bekerja selalu terbalut dengan harapan. Harapan yang menguatkan aku untuk tidak berjalan mundur, misalnya menyerah lalu pulang ke Solo lagi. Meskipun, tanpa kusangkal, aku babak belur saat mendapati isi dompet yang tidak sebanding dengan nafsuku! 
 
 Aku diuji dengan rasa jumawa yang timbul, "Ini uang dari jerih payahku. Ini gajiku! Ini uangku!" Tuhan tak lupa melancarkan berbagai macam caranya untuk mengujiku. Kejadian-kejadian dimana aku harus melepaskan semua dari ke-aku-anku. Cara-cara-Nya sangat menggetarkan paha kakiku yang awalnya sangat kuat untuk melakukan kuda-kuda. Meskipun kutahu cara untuk menguatkannya kembali: bersyukur!
 
