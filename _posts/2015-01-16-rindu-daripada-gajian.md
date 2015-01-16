@@ -18,6 +18,8 @@ Pertengahan bulan dimana aku dan mungkin pekerja lainnya sedang mengencangkan ik
 	<figcaption>Infografis Rindu Daripada Gajian</figcaption>
 </figure>
 
+<br />
+
 "Isu Klasik" para pekerja ini bagiku adalah tempaan untuk mengajariku pintar dalam mengeluarkan uang dan soal bagaimana aku mengatur strategi untuk bertahan hidup. Hanya bertahan hidup? Tentu saja tidak, bahwa gol daripada aku bekerja adalah mencapai taraf hidup yang layak bukan saja untukku tapi untuk orang tua, istriku kelak dan anak-anakku di masa mendatang. 
 
 Apakah aku sudah pintar mengelolanya?
@@ -28,7 +30,7 @@ Aku tidak mau membahas cara mengelola pendapatan dalam versiku. Dan jangan harap
 
 Di sela menunggu hujan reda untuk pulang ke apartemen, aku seperti diingatkan oleh tulisan yang pernah kumuat di blog, bahwasanya ["Manusia: Lahir, Sekolah, Bekerja lalu Mati"](http://andreanisme.net/manusia-lahir-sekolah-bekerja-dan-mati-sebuah-catatan/). Aku merasa dikuatkan oleh niatku yang dulu meninggalkan Solo lalu hijrah ke Jakarta tak lain dan tak bukan adalah usahaku untuk melewati fase hidup dengan caraku sendiri. Bahwa aku harus berprinsip, berkarya dan tentu saja berpenghasilan. Kodratku sebagai seorang lelaki. 
 
-Seteguh pendirianku, sekuat kuda-kuda kakiku, dan setegak kepalaku sudah kualirkan dalam berjuta-juta sel darah yang mengalir di tubuhku, selaput-selaput ototku dan kujadikan doktrin yang terus kucemarkan dalam otakku bahwa aku harus berkarya dan berpenghasilan meskipun aku tak tahu aku akan mendapat pendapatan sebesar berapa setelah aku mengusap air mata mamahku yang perasaan luluh lantak ditinggal anak semata wayangnya yang keras kepala ini untuk menjalani satu fase kehidupannya. Bekerja!
+Seteguh pendirianku, sekuat kuda-kuda kakiku, dan setegak kepalaku sudah kualirkan dalam berjuta-juta sel darah yang mengalir di tubuhku, selaput-selaput ototku dan kujadikan doktrin yang terus kucemarkan dalam otakku bahwa aku harus berkarya dan berpenghasilan meskipun aku tak tahu aku akan mendapat pendapatan sebesar berapa setelah aku mengusap air mata mamahku yang perasaan luluh lantak ditinggal anak semata wayangnya yang keras kepala ini untuk menjalani satu fase kehidupannya. Bekerja! Betapa malunya jika si anak tunggal yang sama sekali tidak tampan tapi keren ini gagal berkemauan untuk berpenghasilan!
 
 Rinduku dalam menanti gajian di bulan-bulan pertama aku bekerja selalu terbalut dengan harapan. Harapan yang menguatkan aku untuk tidak berjalan mundur, misalnya menyerah lalu pulang ke Solo lagi. Meskipun, tanpa kusangkal, aku babak belur saat mendapati isi dompet yang tidak sebanding dengan nafsuku! 
 
@@ -40,9 +42,9 @@ Dalam hasil riset yang kutemukan di [sini](https://www.ipotnews.com/index.php?%2
 
 Aku, bulan lalu juga merasakan betul bahwa kocek yang harus kurogoh untuk pengeluaran nomer 2 di infografis yang kubuat di atas sangat mencekek meskipun hanya 19%!
 
-So, aku akan tetap menghidupi keputusan, aku menguatkan diri untuk menegakkan kepalaku, aku akan berusaha bersyukur agar aku tidak mengumpat dalam jeratan ikat pinggang dan aku akan merayakan Pekan ATM Nasional sebagai acara puncak dari drama "Rindu Daripada Gajian" bersama berjuta-juta pegawai yang kuyakin berpengharapan sama sepertiku.
+So, aku akan tetap menghidupi keputusan, aku menguatkan diri untuk menegakkan kepalaku, aku akan berusaha bersyukur agar aku tidak mengumpat dalam jeratan ikat pinggang dan aku akan merayakan ***Pekan ATM Nasional*** sebagai acara puncak dari drama ***"Rindu Daripada Gajian"*** bersama berjuta-juta pegawai yang kuyakin berpengharapan sama sepertiku.
 
-Diberkatilah kamu wahai kamu para pegawai, teruslah berkarya dan biarlah harapanmu menjadi sinar penerang untuk tujuan hidupmu. Milikilah asuransi kesehatan supaya 7% pengeluaranmu tidak membebani orang tua, istri atau anakmu!
+Diberkatilah kamu wahai para pegawai, teruslah berkarya dan biarlah harapanmu menjadi sinar penerang untuk tujuan hidupmu. Milikilah asuransi kesehatan supaya 7% pengeluaranmu tidak membebani orang tua, istri atau anakmu!
 
 >... berikanlah kami pada hari ini makanan kami yang secukupnya ... <br />
 
