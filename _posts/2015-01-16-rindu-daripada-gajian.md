@@ -2,7 +2,7 @@
 layout: post
 type: photo
 title: "Rindu Daripada Gajian"
-description: 
+description: Betapa malunya jika si anak tunggal yang sama sekali tidak tampan tapi keren ini gagal berkemauan untuk berpenghasilan
 headline: 
 modified: 2015-01-16
 category: lifelog
