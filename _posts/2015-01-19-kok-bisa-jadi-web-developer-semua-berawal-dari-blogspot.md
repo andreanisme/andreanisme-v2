@@ -2,7 +2,7 @@
 layout: post
 type: photo
 title: "Kok Bisa Jadi Web Developer? Semua Berawal Dari Blogspot!"
-description: 
+description: Apa pekerjaanku sekarang dan bagaimana aku bisa mendapatkan pekerjaan ini? Tak mungkin, kan, kalau aku menjelaskannya dengan berkata, "Ahh... aku juga tidak tau kenapa aku bisa bekerja di bidang ini. Tiba-tiba ada perusahaan yang mau memperkerjakan dan menggajiku!"
 headline: 
 modified: 2015-01-19
 category: lifelog
