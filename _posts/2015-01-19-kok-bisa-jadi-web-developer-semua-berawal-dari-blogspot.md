@@ -16,6 +16,13 @@ Alasan kenapa aku sering memperbaharui tulisan yang kupublikasikan di sini seben
 
 Satu daripada banyak permenunganku adalah soal pekerjaan. Apa pekerjaanku sekarang dan bagaimana aku bisa mendapatkan pekerjaan ini? Tak mungkin, kan, kalau aku menjelaskannya dengan berkata, "Ahh... aku juga tidak tau kenapa aku bisa bekerja di bidang ini. Tiba-tiba ada perusahaan yang mau memperkerjakan dan menggajiku!"
 
+<figure>
+	<a href="{{ site.url }}/images/blog-timeline/infografik-blogger.png"><img src="{{ site.url }}/images/blog-timeline/infografik-blogger.png"></a>
+	<figcaption>Perjalanan ...</figcaption>
+</figure>
+
+<br />
+
 #2008
 
 Di sini aku belum bekerja. Aku masih terdaftar sebagai mahasiswa jurusan Sistem Informasi. Mengenal lebih dekat bagaimana manusia mengolah berbagai macam informasi dalam bentuk digital. Aku tergolong mahasiswa yang pandai dalam semester-semester awal yang terlihat dari indeks angka di transkrip semesteran kudapat dari Ujian Akhir Semester yang mewajibkanku mengenakan jas almamater saat mengerjakannya!
