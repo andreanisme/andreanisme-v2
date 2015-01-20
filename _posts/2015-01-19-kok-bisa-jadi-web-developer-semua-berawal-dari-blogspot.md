@@ -7,7 +7,7 @@ headline:
 modified: 2015-01-19
 category: lifelog
 tags: []
-imagefeature: images/blog-timeline/infografik-blogger.png
+imagefeature: blog-timeline/infografik-blogger.png
 comments: true
 mathjax: 
 ---
