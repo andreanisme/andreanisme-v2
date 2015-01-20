@@ -62,7 +62,7 @@ Lalu aku menemukan komunitas blogger yang ada di kotaku. ***Komunitas Blogger Be
 
 Aku mulai aktif di komunitas ini. Tentu saja karena aku merasa nyaman. Aku mendapatkan banyak hal baru, orang-orang baru, pengalaman baru dan masih banyak hal-hal yang mengejutkan yang terjadi di dalamnya.
 
-Tersebutlah nama [Blontank Poer](http://blontankpoer.my.id), [Mursid](http://mursid.web.id) dan [Hassan](http://hasssan.web.id). Tiga nama yang tak pernah kulupakan jika ditanyakan kepada siapa yang membuatmu akhirnya web developer, siapa yang mengajarimu atau yang lebih ekstrim, "siapa yang paling berpengaruh dalam kehidupanmu?!". Selain ***universitas kehidupan*** di jalan Apel no. 23 Jajar, Solo, kawan-kawanku inilah yang sudi membagikan kemampuan dan pengetahuan mereka kepadaku yang sampai saat ini kuakui aku belum ada apa-apanya daripada mereka. Untuk itu, lewat postingan dan permenunganku kali ini kuucapkan terima kasih untuk kalian bertiga. Maturnuwun!
+Tersebutlah nama [Blontank Poer](http://blontankpoer.my.id), [Mursid](http://mursid.web.id) dan [Hasssan](http://hasssan.web.id). Tiga nama yang tak pernah kulupakan jika ditanyakan kepada siapa yang membuatmu akhirnya web developer, siapa yang mengajarimu atau yang lebih ekstrim, "siapa yang paling berpengaruh dalam kehidupanmu?!". Selain ***universitas kehidupan*** di jalan Apel no. 23 Jajar, Solo, kawan-kawanku inilah yang sudi membagikan kemampuan dan pengetahuan mereka kepadaku yang sampai saat ini kuakui aku belum ada apa-apanya daripada mereka. Untuk itu, lewat postingan dan permenunganku kali ini kuucapkan terima kasih untuk kalian bertiga. Maturnuwun!
 
 Cara berkomunikasi yang 'berkelas' diajarkan oleh pakdhe Blontank. Aku banyak dipertemukan oleh jagoan-jagoan yang dari mendengar namanya saja aku sudah ciut untuk sekedar menanyakannya sesuatu. Maka dari itu pakdhe tidak pernah memberi tahu siapa yang akan kutemui agar aku juga tak bersiap-siap untuk segala ketakutanku memandang nama. Dia berpesan, "Jangan punya pretensi terhadap orang!". Kalau orang Jakarta yang *keminggris* akan ngomong *Noted, pakdhe!*
 
@@ -72,7 +72,7 @@ Mas Hasssan ... Kemampuan logisnya sejajar dengan kadar sarkasme yang muncul dar
 
 Beliau bertiga adalah orang yang keras kepala. Bertambah jadi empat jika aku dimasukkan! haha. Ya! Mereka mempunyai prinsip hidup dan pantang menjadi penjilat yang tentunya tak punya prinsip dan hanya berorientasi pada "Asal Bapak Senang!"
 
-Aku merasa beruntung dan bersyukur kepada sang Esa karena diberikan kesempatan untuk berkawan dan berguru dari pakdhe Blontank, mas Mursid dan mas Hassan.
+Aku merasa beruntung dan bersyukur kepada sang Esa karena diberikan kesempatan untuk berkawan dan berguru dari pakdhe Blontank, mas Mursid dan mas Hasssan.
 
 #2013 - sekarang
 
@@ -84,6 +84,6 @@ Hidup berjalan maju. Lalu aku memperdalam "kanuragan" web development-ku dengan 
 
 Sekarang, karena sudah terbiasa otodidak dalam mempelajari apapun, aku menggunakan Jekyll sebagai mesin blog ini. Banyak hal baru yang kutemui dan dari sini, terlalu teknis jika kusampaikan di sini. *Pokoke, njlimet sithik neng penak, lah...* :p
 
-So, aku berangkat dari blog hingga aku masih bisa mengetik tulisan ini. Pekerjaanku juga masih berhubungan dengan ini. Maka tak ada salahnya aku masih menghasilkan sampah yang dianalogikan si KRMT kumisan itu :D Selagi sampah-sampah itu masih kubuang pada tempatnya maka sebenarnya itu tak jadi soal. Sekali lagi, buanglah sampah pada tempatnya!
+So, aku berangkat dari blog hingga aku masih bisa mengetik tulisan ini. Pekerjaanku juga masih berhubungan dengan ini. Maka tak ada salahnya aku masih menghasilkan sampah yang dianalogikan si KRMT kumisan itu :D Selagi sampah-sampah itu masih kubuang pada tempatnya maka sebenarnya itu tak jadi soal. Sekali lagi, buanglah sampah pada tempatnya biar tidak jadi tukang tipu!
 
 Pada akhirnya, aku sangat menghargai proses. Proses alamiah yang dasarnya dipantik oleh keinginanku sendiri. Karena dengan tidak ada iming-iming yang kadang malah semu itu, aku, pada suatu titik, dipertemukan dengan satu rasa yang tak terbeli harganya: rasa syukur!
