@@ -25,7 +25,7 @@ Dalam lamunanku, aku berpikir, apa iya petugas cleaning service itu akan di berd
 
 Atau mungkin, bisakah si cleaning service itu akan menegur satu per satu pengunjung untuk tak lupa keset dulu sebelum melenggang masuk. 
 
-Nampaknya si cleaning service itu tak mungkin menegur orang yang keluar masuk dan menyuruhnya untuk keset. Apa kuasanya? Dia mungkin hanya akan terus menggosok-gosokan kain pel ke lantai yang kotor dengan hati yang dongkol atau malah senang hati dan ikhlas karena dia bisa membersihkannya dengan tempo sekejap. *Hati orang siapa yang tahu?*
+Nampaknya si cleaning service itu tak mungkin menegur orang yang keluar masuk dan menyuruhnya untuk keset. Apa kuasanya? Dia mungkin hanya akan terus menggosok-gosokan kain pel ke lantai yang kotor dengan hati yang dongkol atau malah senang hati dan ikhlas karena dia bisa membersihkannya dengan tempo sekejap. ***Hati orang siapa yang tahu?***
 
 Tidak semua orang sama denganku. Aku mungkin memiliki perasaan bersalah jika aku dengan tanpa atau sengaja mengotori lantai yang sudah di pel dimana ada cleaning service di depan langkahku sedang sibuk memaju-mundurkan tongkat pelnya. Kalaupun terlanjur, aku tak akan malu untuk meminta maaf. Kalaupun sudah membersihkan alas kakiku di atas keset, aku akan permisi ketika lewat di hadapan cleaning service itu atau melipir mencari daerah yang sudah kering dari sapuan serta jangkauan kain pelnya.
 
