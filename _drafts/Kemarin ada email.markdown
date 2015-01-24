@@ -1,0 +1,12 @@
+Psikotes
+
+
+Kemarin ada email yang kuterima dari manager HR yang dulu pernah menghubungiku soal tawaran kerja. Tawaran kerja yang pernah ia tawarkan aku tolak untuk satu dan lain hal yang tidak bisa kuceritakan ketika aku sudah melakukan semua test yang disyaratkan perusahaan dan aku lolos! Email itu berisi hasil psikotes.
+
+Aku sempat kaget. Kenapa hasil psikotesnya masih dikirim kepadaku? Dimana aku sudah menjalani tes itu serta memutuskan tak bekerja di perusahaan dimana ia bekerja sudah setahun lebih!
+
+Kuucapkan terimakasih dan bertanya kabar kepadanya karena kuanggap dia secara personal masih berbaik hati kepadaku dengan mengirimkan email hasil psikotes dan akupun tak mempunyai tendensi apa-apa ketika aku menanyakan kabarnya. Sampai disuatu loop email dimana ia menawariku pekerjaan lagi dan dari jabatannya, penawaran kali ini level jabatannya lebih tinggi daripada yang pernah dia tawarkan setahun yang lalu!
+
+Lalu, apa kesanku setelah menerima hasil psikotes? Cukup menyenangkan membaca hasilnya. Kenapa menyenangkan? Karena cocok dengan apa yang aku rasakan. "Ya, aku orangnya memang begitu!" Dalam interview dan test, aku memang sangat 'polos' dalam menjalaninya. Jadi, ketika nanti perusahaan mengukur kepantasanku bekerja di sana, diterima atau tidak-nya aku juga bisa kembali mengukur sejauh mana kemampuanku! 
+
+Perusahaan ini memang bonafide. Dan aku juga sedang memikirkan petualangan baru! ;)
